@@ -1,4 +1,3 @@
-```mermaid
 graph TD;
     A[Recabar la Información] -->|Cliente/Usuario| B[Solicitud de Información]
     B --> C[Entrega de Requisitos]
